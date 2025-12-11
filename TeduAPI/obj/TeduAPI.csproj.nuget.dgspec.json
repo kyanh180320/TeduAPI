@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Linh\\source\\repos\\TeduAPI\\TeduAPI\\TeduAPI.csproj": {}
+    "C:\\Users\\anhphk\\Documents\\TeduAPI\\TeduAPI\\TeduAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Linh\\source\\repos\\TeduAPI\\TeduAPI\\TeduAPI.csproj": {
+    "C:\\Users\\anhphk\\Documents\\TeduAPI\\TeduAPI\\TeduAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Linh\\source\\repos\\TeduAPI\\TeduAPI\\TeduAPI.csproj",
+        "projectUniqueName": "C:\\Users\\anhphk\\Documents\\TeduAPI\\TeduAPI\\TeduAPI.csproj",
         "projectName": "TeduAPI",
-        "projectPath": "C:\\Users\\Linh\\source\\repos\\TeduAPI\\TeduAPI\\TeduAPI.csproj",
-        "packagesPath": "C:\\Users\\Linh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Linh\\source\\repos\\TeduAPI\\TeduAPI\\obj\\",
+        "projectPath": "C:\\Users\\anhphk\\Documents\\TeduAPI\\TeduAPI\\TeduAPI.csproj",
+        "packagesPath": "C:\\Users\\anhphk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anhphk\\Documents\\TeduAPI\\TeduAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Linh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\anhphk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TeduAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e22591f4045e87813e6fda51d270aa070bc98ab2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0455f0fc27555fc982e7f65ac3b2512781d7146f")]
 [assembly: System.Reflection.AssemblyProductAttribute("TeduAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TeduAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
