@@ -1,0 +1,6 @@
+@TeduBlog.API_HostAddress = http://localhost:5168
+
+GET {{TeduBlog.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
